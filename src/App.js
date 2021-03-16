@@ -12,6 +12,9 @@ function App() {
         <p>
           Testing how multiple commits behave.
         </p>
+        <p>
+          Again.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
