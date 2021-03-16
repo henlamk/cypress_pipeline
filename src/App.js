@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit for push.
         </p>
+        <p>
+          Testing how multiple commits behave.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
